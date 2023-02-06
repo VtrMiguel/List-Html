@@ -1,2 +1,2 @@
 # List-Html
-To do List feito em html
+Lista de tarefas feito em Html/CSS/Js para te auxiliar nas tarefas do dia-dia!
